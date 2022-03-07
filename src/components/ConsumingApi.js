@@ -5,7 +5,6 @@ import {useEffect, useState} from 'react'
 const ConsumingApi = () => {
     const[weather, setWeather] = useState({})
     const[temp, setTemp] = useState()
-    const[farenhenit, setFarenheit] = useState()
 
     const [isDt, setIsDt] = useState(true)
 

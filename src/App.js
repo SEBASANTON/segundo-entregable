@@ -1,6 +1,6 @@
 import './App.css';
 import ConsumingApi from './components/ConsumingApi';
-import Style from './style.css';
+import './style.css';
 
 function App() {
   return (
